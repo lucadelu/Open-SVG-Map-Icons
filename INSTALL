@@ -1,0 +1,17 @@
+PREREQUISITIES
+==============
+- convert
+- rsvg
+- sed
+
+
+INSTALL
+=======
+
+From main folder Open-SVG-Map-Icons with root permission launch
+
+	make 
+
+it install the scripts in /usr/local/bin
+
+If you want change path please edit Makefile and change PREFIX variable
