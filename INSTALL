@@ -15,3 +15,14 @@ From main folder Open-SVG-Map-Icons with root permission launch
 it install the scripts in /usr/local/bin
 
 If you want change path please edit Makefile and change PREFIX variable
+
+
+REMOVE
+======
+
+From main folder Open-SVG-Map-Icons with root permission launch
+
+        make clean
+
+it remove all the script installed before
+
