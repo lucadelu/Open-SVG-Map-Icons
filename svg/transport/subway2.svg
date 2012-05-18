@@ -14,7 +14,7 @@
    height="580"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="subway2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -46,10 +46,10 @@
      id="base"
      inkscape:zoom="0.92167712"
      inkscape:cx="331.95305"
-     inkscape:cy="242.23379"
+     inkscape:cy="347.20858"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="text3000"
      showgrid="false"
      inkscape:window-maximized="1" />
   <defs
@@ -139,20 +139,13 @@
      height="468.71078"
      x="52.078976"
      y="59.210247" />
-  <text
-     xml:space="preserve"
+  <g
+     transform="scale(1.033517,0.96756993)"
      style="font-size:255.53939819px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS Bold"
-     x="106.98196"
-     y="468.85187"
-     id="text3000"
-     sodipodi:linespacing="125%"
-     transform="scale(1.033517,0.96756993)"><tspan
-       sodipodi:role="line"
-       x="106.98196"
-       y="468.85187"
-       id="tspan3002"><tspan
-         x="106.98196"
-         y="468.85187"
-         style="font-size:485.52487183px;font-weight:normal;line-height:125%;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
-         id="tspan3004">M</tspan></tspan></text>
+     id="text3000">
+    <path
+       d="m 404.03404,468.85187 -41.25065,-223.0854 -75.86326,227.82685 -11.85364,0 -77.99691,-227.82685 -40.30236,223.0854 -45.04381,0 64.95792,-347.3115 21.57361,0 82.73837,253.43071 76.33741,-253.43071 21.33654,0 70.41059,347.3115 -45.04381,0"
+       style="font-size:485.52487183px;font-weight:normal;line-height:125%;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       id="path3000" />
+  </g>
 </svg>
