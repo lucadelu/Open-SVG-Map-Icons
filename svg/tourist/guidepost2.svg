@@ -132,38 +132,34 @@
        x="2"
        y="2" />
   </g>
-  <g
-     id="g3610"
-     transform="translate(2,4)">
-    <rect
-       y="176.58904"
-       x="26.070612"
-       height="212.25366"
-       width="361.98071"
-       id="rect2824"
-       style="fill:none;stroke:#ffffff;stroke-width:20.40215683;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
-       transform="matrix(0.68660493,0.00846969,-0.00623234,0.93308939,172.89581,141.45349)"
-       d="M 526.21465,144.92356 340.93507,256.23469 337.1766,40.122306 526.21465,144.92356 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="1.029808"
-       sodipodi:arg1="-0.017389551"
-       sodipodi:r2="62.395706"
-       sodipodi:r1="124.79141"
-       sodipodi:cy="147.09352"
-       sodipodi:cx="401.44211"
-       sodipodi:sides="3"
-       id="path3598"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="star" />
-    <rect
-       y="179.87128"
-       x="28.6078"
-       height="198.0943"
-       width="54.877113"
-       id="rect3600"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:22.62675476;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+  <rect
+     style="fill:none;stroke:#ffffff;stroke-width:35.502;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect2824"
+     width="361.98071"
+     height="212.25366"
+     x="38.07061"
+     y="180.58904" />
+  <path
+     sodipodi:type="star"
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path3598"
+     sodipodi:sides="3"
+     sodipodi:cx="401.44211"
+     sodipodi:cy="147.09352"
+     sodipodi:r1="124.79141"
+     sodipodi:r2="62.395706"
+     sodipodi:arg1="-0.017389551"
+     sodipodi:arg2="1.029808"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 526.21465,144.92356 340.93507,256.23469 337.1766,40.122306 526.21465,144.92356 z"
+     transform="matrix(0.6842841,0.00896818,-0.00621127,0.98800824,193.59533,136.58802)" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:22.62675476;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3600"
+     width="54.877113"
+     height="198.0943"
+     x="40.6078"
+     y="183.87128" />
 </svg>
